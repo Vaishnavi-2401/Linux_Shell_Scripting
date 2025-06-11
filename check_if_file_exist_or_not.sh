@@ -7,5 +7,5 @@ if [ -f "$file" ];
 then
     echo "File Exist!"
 else
-    echo "File does not exist!"
+    echo "File does not Exist!"
 fi
